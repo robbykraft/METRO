@@ -1,0 +1,52 @@
+
+[
+    {
+        "name":"Wei",
+        "color":"blue"
+    },
+    {
+        "name":"emile",
+        "color":"yellow"
+    },
+    
+    {
+        "name": "zoe",
+        "color" : "maroon"
+    },
+    
+    {
+         "name" : "mary ann",
+         "color" : "chartreuse"
+ 
+    },      
+    {
+        "name": "rebecca",
+        "color":"teal"
+    },
+    
+    {
+        "name":"tara",
+        "color":"blue"
+    },
+    
+    {
+        "name":"Samantha",
+        "color":"Green"
+    },
+    {
+        "name":"Rob",    
+        "color":"Red"
+    },   
+        
+       {
+           "name":"Maria",
+           "color":"purple"
+       },
+        
+          
+    {
+        "name":"Ashley",
+        "color":"orange"
+    }
+
+    ]  
